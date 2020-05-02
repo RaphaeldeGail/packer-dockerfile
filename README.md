@@ -5,7 +5,7 @@ simple ansible image with packer on top of it.
 
 ## Image description
 
-- ansible layer from <a href="raphaeldegail/ansible">this image</a>.
+- ansible layer from <a href="https://github.com/RaphaeldeGail/ansible-dockerfile">this image</a>.
 
 - packer binary
 
