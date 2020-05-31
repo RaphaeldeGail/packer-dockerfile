@@ -1,11 +1,12 @@
 # packer-dockerfile
+
 simple ansible image with packer on top of it.
 
 ## This image allows you to work with packer image builder tool as well as ansible configuration tool for provisioning.
 
 ## Image description
 
-- ansible layer from <a href="https://github.com/RaphaeldeGail/ansible-dockerfile">this image</a>.
+- ansible layer from [this image](https://github.com/RaphaeldeGail/ansible-dockerfile)
 
 - packer binary
 
